@@ -15,4 +15,8 @@ The script can be used to quickly understand by visualization the performance an
 
 ## Sample output:
 
+![image](https://user-images.githubusercontent.com/77254370/105657055-6d6eda80-5e78-11eb-8b37-162e0bbc75e2.png)
+
+
+
 
